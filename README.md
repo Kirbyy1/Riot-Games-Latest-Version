@@ -15,5 +15,5 @@ The Valorant Version Checker is a small Go application that retrieves the versio
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/valorant-version-checker.git
+   git clone https://github.com/Kirbyy1/Riot-Games-Latest-Version.git
    cd valorant-version-checker
